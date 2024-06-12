@@ -18,9 +18,8 @@ public class Actividad7Application {
 		Profesor objProfesor = new Profesor("Pepito", "Pérez", "Sanchez", "44332234L");
 		System.out.println("El nuevo profesor se llama " + objProfesor.getNombre());
 
-		Profesor objAlumno = new Alumno("Juan", "Martinez", "Ojeda", "12345678L");
+		Alumno objAlumno = new Alumno ("Pepita", "Sánchez", "Martín", "44332234L");
 		System.out.println("El nuevo alumno se llama " + objAlumno.getNombre());
-
 
 
 		
